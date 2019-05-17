@@ -1,0 +1,3 @@
+random text
+we are going to learn reading files
+blah blah blah
